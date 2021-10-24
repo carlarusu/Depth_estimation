@@ -17,3 +17,5 @@ The hamming distance represents the number of different bits in an encoding (cen
 - Compute hamming costs given the census transform
 - Optionally compute hamming sums for better results
 - Compute disparity maps given the costs
+
+![alt text](https://github.com/carlarusu/Depth_estimation/blob/master/example.png?raw=true)
